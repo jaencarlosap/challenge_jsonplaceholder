@@ -1,17 +1,28 @@
 {
-  "name": "challenge_jsonplaceholder",
-  "version": "0.1.0",
-  "private": true,
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start"
-  },
-  "dependencies": {
-    "bootstrap": "^4.5.2",
-    "next": "^9.5.3",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1",
-    "reactstrap": "^8.6.0"
-  }
+	"name": "challenge_jsonplaceholder",
+	"version": "0.1.0",
+	"private": true,
+	"scripts": {
+		"dev": "next dev",
+		"build": "next build",
+		"start": "next start"
+	},
+	"dependencies": {
+		"bootstrap": "^4.5.2",
+		"next": "^12.2.0",
+		"react": "^18.2.0",
+		"react-dom": "^18.2.0",
+		"reactstrap": "^8.6.0"
+	},
+	"description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/janper231/challenge_jsonplaceholder.git"
+	},
+	"author": "janper231",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/janper231/challenge_jsonplaceholder/issues"
+	},
+	"homepage": "https://github.com/janper231/challenge_jsonplaceholder#readme"
 }
